@@ -1,5 +1,8 @@
 _repo: In-Savage-Africa-The-adventures-of-Frank-Baldwin-from-the-Gold-Coast-to-Zanzibar_57624
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57624-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Cameron, Verney Lovett
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8072'
     url: http://www.gutenberg.org/2009/agents/8072
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57624#In-Savage-Africa-The-adventures-of-Frank-Baldwin-from-the-Gold-Coast-to-Zanzibar
 gutenberg_issued: '2018-08-01'
 gutenberg_type: Text
 identifiers:
